@@ -1,0 +1,49 @@
+header {
+    display: flex;
+    background-color: rgb(255 255 255);
+    justify-content: space-between;
+    padding: 3em  1em;
+    align-items: center;
+    border-color: gray;
+
+    border: solid;
+
+}
+
+li {
+    border-radius: 1em;
+    background-color:  rgb(255 255 255);
+    /* border-block: initial; */
+    border: solid;
+    padding: 0.8em 2em;
+    border-radius: 1 em;
+    font-size: large;
+    letter-spacing: 0.5em;
+}
+
+
+
+nav>ul {
+    /* 
+    font-family: fantasy; */
+    font-family: cursive;
+    border: inherit;
+    padding: 0.5em  1em;
+    font-weight: 800;
+    display: flex;
+    color: #382f2fd9;
+    column-gap: 5em;
+    list-style: none;
+    margin-left: 50em;
+    margin: 0px;
+
+    /* text-transform: capitalize; */
+
+
+
+
+}
+
+img {
+    width: 10em;
+}
